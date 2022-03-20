@@ -1,6 +1,6 @@
 import json
 out=[]
-with open('logs/logs_sparc_editsql/dev_use_predicted_queries_predictions.json') as f:
+with open('logs/logs_sparc_editsql/valid_use_predicted_queries_predictions.json') as f:
   for entry in f:
     data = json.loads(entry)
     out.append(data)
