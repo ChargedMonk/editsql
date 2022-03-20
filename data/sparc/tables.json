@@ -50551,5 +50551,1150 @@
             "Catalog_Contents",
             "Catalog_Contents_Additional_Attributes"
         ]
+    },
+    {
+        "column_names": [
+            [
+                -1,
+                "*"
+            ],
+            [
+                0,
+                "id"
+            ],
+            [
+                0,
+                "shipment id"
+            ],
+            [
+                0,
+                "consignment id"
+            ],
+            [
+                0,
+                "shipment code type"
+            ],
+            [
+                0,
+                "shipment code subtype"
+            ],
+            [
+                0,
+                "tree parent id"
+            ],
+            [
+                0,
+                "node type"
+            ],
+            [
+                0,
+                "bol number"
+            ],
+            [
+                0,
+                "master bol number"
+            ],
+            [
+                0,
+                "scac code"
+            ],
+            [
+                0,
+                "bol type"
+            ],
+            [
+                0,
+                "mode of transport"
+            ],
+            [
+                0,
+                "port of entry"
+            ],
+            [
+                0,
+                "career id"
+            ],
+            [
+                0,
+                "carrier name"
+            ],
+            [
+                0,
+                "country of origin"
+            ],
+            [
+                0,
+                "country of destination"
+            ],
+            [
+                0,
+                "importer id"
+            ],
+            [
+                0,
+                "broker id"
+            ],
+            [
+                0,
+                "consignee id"
+            ],
+            [
+                0,
+                "seller id"
+            ],
+            [
+                0,
+                "buyer id"
+            ],
+            [
+                0,
+                "manufacturer id"
+            ],
+            [
+                0,
+                "ship to id"
+            ],
+            [
+                0,
+                "stuffer id"
+            ],
+            [
+                0,
+                "consolidator id"
+            ],
+            [
+                0,
+                "shipper id"
+            ],
+            [
+                0,
+                "port of lading"
+            ],
+            [
+                0,
+                "port of unlading"
+            ],
+            [
+                0,
+                "date of arrival"
+            ],
+            [
+                0,
+                "date of departure"
+            ],
+            [
+                0,
+                "entry date"
+            ],
+            [
+                0,
+                "import date"
+            ],
+            [
+                0,
+                "export date"
+            ],
+            [
+                0,
+                "start time"
+            ],
+            [
+                0,
+                "entry number"
+            ],
+            [
+                0,
+                "customer email"
+            ],
+            [
+                0,
+                "description"
+            ],
+            [
+                0,
+                "manufacturer name"
+            ],
+            [
+                0,
+                "origin city"
+            ],
+            [
+                0,
+                "destination city"
+            ],
+            [
+                0,
+                "entry summary extra data"
+            ],
+            [
+                0,
+                "location firms code"
+            ],
+            [
+                0,
+                "eta from arrival notice"
+            ],
+            [
+                0,
+                "terminal arrival notice"
+            ],
+            [
+                0,
+                "purchase order"
+            ],
+            [
+                0,
+                "shipment phase"
+            ],
+            [
+                0,
+                "port of lading code"
+            ],
+            [
+                0,
+                "port of unlading code"
+            ],
+            [
+                0,
+                "voyage number"
+            ],
+            [
+                0,
+                "archived"
+            ],
+            [
+                0,
+                "destination delivery date"
+            ],
+            [
+                0,
+                "eta from marine traffic"
+            ],
+            [
+                0,
+                "inflight"
+            ],
+            [
+                0,
+                "partner shipment id"
+            ],
+            [
+                0,
+                "ata"
+            ],
+            [
+                0,
+                "atd"
+            ],
+            [
+                0,
+                "flight number"
+            ],
+            [
+                0,
+                "air carrier code"
+            ],
+            [
+                0,
+                "source timezone"
+            ],
+            [
+                0,
+                "destination timezone"
+            ],
+            [
+                0,
+                "psc"
+            ],
+            [
+                0,
+                "psc parent id"
+            ],
+            [
+                0,
+                "psc created"
+            ],
+            [
+                0,
+                "partner association id"
+            ],
+            [
+                0,
+                "broker code"
+            ],
+            [
+                0,
+                "truck number"
+            ],
+            [
+                0,
+                "service type"
+            ],
+            [
+                0,
+                "country of business"
+            ],
+            [
+                0,
+                "kn loc id lading"
+            ],
+            [
+                0,
+                "kn loc id unlading"
+            ],
+            [
+                0,
+                "bond type"
+            ],
+            [
+                0,
+                "surety number"
+            ],
+            [
+                0,
+                "bond value"
+            ],
+            [
+                0,
+                "drayage enabled"
+            ],
+            [
+                0,
+                "contract of carriage"
+            ],
+            [
+                0,
+                "tt eta"
+            ],
+            [
+                0,
+                "shipper same as manufacturer"
+            ],
+            [
+                0,
+                "seller same as shipper"
+            ],
+            [
+                0,
+                "container stuffer same as manufacturer"
+            ],
+            [
+                0,
+                "consolidator same as manufacturer"
+            ],
+            [
+                0,
+                "consignee same as importer"
+            ],
+            [
+                0,
+                "ship to same as importer"
+            ],
+            [
+                0,
+                "default final destination"
+            ],
+            [
+                0,
+                "transportation enabled"
+            ],
+            [
+                1,
+                "id"
+            ],
+            [
+                1,
+                "shipper type id"
+            ],
+            [
+                1,
+                "shipper identification id"
+            ],
+            [
+                1,
+                "shipper id"
+            ],
+            [
+                1,
+                "name"
+            ],
+            [
+                1,
+                "second name"
+            ],
+            [
+                1,
+                "shipper email"
+            ],
+            [
+                1,
+                "shipper external identification number"
+            ],
+            [
+                1,
+                "mid"
+            ],
+            [
+                1,
+                "shipper id type"
+            ],
+            [
+                1,
+                "shipper id number"
+            ],
+            [
+                2,
+                "id"
+            ],
+            [
+                2,
+                "address id"
+            ],
+            [
+                2,
+                "shipper id"
+            ],
+            [
+                2,
+                "shipper type"
+            ],
+            [
+                2,
+                "street number"
+            ],
+            [
+                2,
+                "street name"
+            ],
+            [
+                2,
+                "po box number"
+            ],
+            [
+                2,
+                "postal code"
+            ],
+            [
+                2,
+                "building name"
+            ],
+            [
+                2,
+                "apartment number"
+            ],
+            [
+                2,
+                "suite number"
+            ],
+            [
+                2,
+                "association name"
+            ],
+            [
+                2,
+                "pier"
+            ],
+            [
+                2,
+                "wing"
+            ],
+            [
+                2,
+                "floor number"
+            ],
+            [
+                2,
+                "room"
+            ],
+            [
+                2,
+                "unit"
+            ],
+            [
+                2,
+                "cross street"
+            ],
+            [
+                2,
+                "building number"
+            ],
+            [
+                2,
+                "city"
+            ],
+            [
+                2,
+                "county"
+            ],
+            [
+                2,
+                "state"
+            ],
+            [
+                2,
+                "country"
+            ],
+            [
+                2,
+                "country code"
+            ],
+            [
+                2,
+                "primary phone"
+            ],
+            [
+                2,
+                "unstructured street address"
+            ],
+            [
+                2,
+                "lat"
+            ],
+            [
+                2,
+                "lon"
+            ]
+        ],
+        "column_names_original": [
+            [
+                0,
+                "ID"
+            ],
+            [
+                0,
+                "SHIPMENT_ID"
+            ],
+            [
+                0,
+                "CONSIGNMENT_ID"
+            ],
+            [
+                0,
+                "SHIPMENT_CODE_TYPE"
+            ],
+            [
+                0,
+                "SHIPMENT_CODE_SUBTYPE"
+            ],
+            [
+                0,
+                "TREE_PARENT_ID"
+            ],
+            [
+                0,
+                "NODE_TYPE"
+            ],
+            [
+                0,
+                "BOL_NUMBER"
+            ],
+            [
+                0,
+                "MASTER_BOL_NUMBER"
+            ],
+            [
+                0,
+                "SCAC_CODE"
+            ],
+            [
+                0,
+                "BOL_TYPE"
+            ],
+            [
+                0,
+                "MODE_OF_TRANSPORT"
+            ],
+            [
+                0,
+                "PORT_OF_ENTRY"
+            ],
+            [
+                0,
+                "CAREER_ID"
+            ],
+            [
+                0,
+                "CARRIER_NAME"
+            ],
+            [
+                0,
+                "COUNTRY_OF_ORIGIN"
+            ],
+            [
+                0,
+                "COUNTRY_OF_DESTINATION"
+            ],
+            [
+                0,
+                "IMPORTER_ID"
+            ],
+            [
+                0,
+                "BROKER_ID"
+            ],
+            [
+                0,
+                "CONSIGNEE_ID"
+            ],
+            [
+                0,
+                "SELLER_ID"
+            ],
+            [
+                0,
+                "BUYER_ID"
+            ],
+            [
+                0,
+                "MANUFACTURER_ID"
+            ],
+            [
+                0,
+                "SHIP_TO_ID"
+            ],
+            [
+                0,
+                "STUFFER_ID"
+            ],
+            [
+                0,
+                "CONSOLIDATOR_ID"
+            ],
+            [
+                0,
+                "SHIPPER_ID"
+            ],
+            [
+                0,
+                "PORT_OF_LADING"
+            ],
+            [
+                0,
+                "PORT_OF_UNLADING"
+            ],
+            [
+                0,
+                "DATE_OF_ARRIVAL"
+            ],
+            [
+                0,
+                "DATE_OF_DEPARTURE"
+            ],
+            [
+                0,
+                "ENTRY_DATE"
+            ],
+            [
+                0,
+                "IMPORT_DATE"
+            ],
+            [
+                0,
+                "EXPORT_DATE"
+            ],
+            [
+                0,
+                "START_TIME"
+            ],
+            [
+                0,
+                "ENTRY_NUMBER"
+            ],
+            [
+                0,
+                "CUSTOMER_EMAIL"
+            ],
+            [
+                0,
+                "DESCRIPTION"
+            ],
+            [
+                0,
+                "MANUFACTURER_NAME"
+            ],
+            [
+                0,
+                "ORIGIN_CITY"
+            ],
+            [
+                0,
+                "DESTINATION_CITY"
+            ],
+            [
+                0,
+                "ENTRY_SUMMARY_EXTRA_DATA"
+            ],
+            [
+                0,
+                "LOCATION_FIRMS_CODE"
+            ],
+            [
+                0,
+                "ETA_FROM_ARRIVAL_NOTICE"
+            ],
+            [
+                0,
+                "TERMINAL_ARRIVAL_NOTICE"
+            ],
+            [
+                0,
+                "PURCHASE_ORDER"
+            ],
+            [
+                0,
+                "SHIPMENT_PHASE"
+            ],
+            [
+                0,
+                "PORT_OF_LADING_CODE"
+            ],
+            [
+                0,
+                "PORT_OF_UNLADING_CODE"
+            ],
+            [
+                0,
+                "VOYAGE_NUMBER"
+            ],
+            [
+                0,
+                "ARCHIVED"
+            ],
+            [
+                0,
+                "DESTINATION_DELIVERY_DATE"
+            ],
+            [
+                0,
+                "ETA_FROM_MARINE_TRAFFIC"
+            ],
+            [
+                0,
+                "INFLIGHT"
+            ],
+            [
+                0,
+                "PARTNER_SHIPMENT_ID"
+            ],
+            [
+                0,
+                "ATA"
+            ],
+            [
+                0,
+                "ATD"
+            ],
+            [
+                0,
+                "FLIGHT_NUMBER"
+            ],
+            [
+                0,
+                "AIR_CARRIER_CODE"
+            ],
+            [
+                0,
+                "SOURCE_TIMEZONE"
+            ],
+            [
+                0,
+                "DESTINATION_TIMEZONE"
+            ],
+            [
+                0,
+                "PSC"
+            ],
+            [
+                0,
+                "PSC_PARENT_ID"
+            ],
+            [
+                0,
+                "PSC_CREATED"
+            ],
+            [
+                0,
+                "PARTNER_ASSOCIATION_ID"
+            ],
+            [
+                0,
+                "BROKER_CODE"
+            ],
+            [
+                0,
+                "TRUCK_NUMBER"
+            ],
+            [
+                0,
+                "SERVICE_TYPE"
+            ],
+            [
+                0,
+                "COUNTRY_OF_BUSINESS"
+            ],
+            [
+                0,
+                "KN_LOC_ID_LADING"
+            ],
+            [
+                0,
+                "KN_LOC_ID_UNLADING"
+            ],
+            [
+                0,
+                "BOND_TYPE"
+            ],
+            [
+                0,
+                "SURETY_NUMBER"
+            ],
+            [
+                0,
+                "BOND_VALUE"
+            ],
+            [
+                0,
+                "DRAYAGE_ENABLED"
+            ],
+            [
+                0,
+                "CONTRACT_OF_CARRIAGE"
+            ],
+            [
+                0,
+                "TT_ETA"
+            ],
+            [
+                0,
+                "SHIPPER_SAME_AS_MANUFACTURER"
+            ],
+            [
+                0,
+                "SELLER_SAME_AS_SHIPPER"
+            ],
+            [
+                0,
+                "CONTAINER_STUFFER_SAME_AS_MANUFACTURER"
+            ],
+            [
+                0,
+                "CONSOLIDATOR_SAME_AS_MANUFACTURER"
+            ],
+            [
+                0,
+                "CONSIGNEE_SAME_AS_IMPORTER"
+            ],
+            [
+                0,
+                "SHIP_TO_SAME_AS_IMPORTER"
+            ],
+            [
+                0,
+                "DEFAULT_FINAL_DESTINATION"
+            ],
+            [
+                0,
+                "TRANSPORTATION_ENABLED"
+            ],
+            [
+                1,
+                "ID"
+            ],
+            [
+                1,
+                "SHIPPER_TYPE_ID"
+            ],
+            [
+                1,
+                "SHIPPER_IDENTIFICATION_ID"
+            ],
+            [
+                1,
+                "SHIPPER_ID"
+            ],
+            [
+                1,
+                "NAME"
+            ],
+            [
+                1,
+                "SECOND_NAME"
+            ],
+            [
+                1,
+                "SHIPPER_EMAIL"
+            ],
+            [
+                1,
+                "SHIPPER_EXTERNAL_IDENTIFICATION_NUMBER"
+            ],
+            [
+                1,
+                "MID"
+            ],
+            [
+                1,
+                "SHIPPER_ID_TYPE"
+            ],
+            [
+                1,
+                "SHIPPER_ID_NUMBER"
+            ],
+            [
+                2,
+                "ID"
+            ],
+            [
+                2,
+                "ADDRESS_ID"
+            ],
+            [
+                2,
+                "SHIPPER_ID"
+            ],
+            [
+                2,
+                "SHIPPER_TYPE"
+            ],
+            [
+                2,
+                "STREET_NUMBER"
+            ],
+            [
+                2,
+                "STREET_NAME"
+            ],
+            [
+                2,
+                "PO_BOX_NUMBER"
+            ],
+            [
+                2,
+                "POSTAL_CODE"
+            ],
+            [
+                2,
+                "BUILDING_NAME"
+            ],
+            [
+                2,
+                "APARTMENT_NUMBER"
+            ],
+            [
+                2,
+                "SUITE_NUMBER"
+            ],
+            [
+                2,
+                "ASSOCIATION_NAME"
+            ],
+            [
+                2,
+                "PIER"
+            ],
+            [
+                2,
+                "WING"
+            ],
+            [
+                2,
+                "FLOOR_NUMBER"
+            ],
+            [
+                2,
+                "ROOM"
+            ],
+            [
+                2,
+                "UNIT"
+            ],
+            [
+                2,
+                "CROSS_STREET"
+            ],
+            [
+                2,
+                "BUILDING_NUMBER"
+            ],
+            [
+                2,
+                "CITY"
+            ],
+            [
+                2,
+                "COUNTY"
+            ],
+            [
+                2,
+                "STATE"
+            ],
+            [
+                2,
+                "COUNTRY"
+            ],
+            [
+                2,
+                "COUNTRY_CODE"
+            ],
+            [
+                2,
+                "PRIMARY_PHONE"
+            ],
+            [
+                2,
+                "UNSTRUCTURED_STREET_ADDRESS"
+            ],
+            [
+                2,
+                "LAT"
+            ],
+            [
+                2,
+                "LON"
+            ]
+        ],
+        "column_types": [
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "number",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "text",
+            "number",
+            "number"
+        ],
+        "db_id": "shipments",
+        "foreign_keys": [],
+        "primary_keys": [
+            1,
+            87,
+            98
+        ],
+        "table_names": [
+            "shipment",
+            "shipper",
+            "shipper address"
+        ],
+        "table_names_original": [
+            "shipment",
+            "shipper",
+            "shipper_address"
+        ]
     }
 ]
